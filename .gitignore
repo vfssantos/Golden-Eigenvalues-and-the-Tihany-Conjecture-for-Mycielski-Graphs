@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+texput.log
+*.toc
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
+
+# Compiled output (keep source, not binaries)
+*.pdf
